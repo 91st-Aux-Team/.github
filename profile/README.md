@@ -10,9 +10,7 @@ We encourage contributions from unit members to enhance and expand the auxiliary
 
 ## Contact
 
-For any questions, suggestions, or discussions related to this repository, you can join us on our [Discord server](TODO). Connect with fellow unit members, share your ideas, and contribute to the growth of our community.
-
-Thank you for being a part of the 91st MRC Clone Wars Unit and contributing to our auxiliary resources!
+For any questions, suggestions, or discussions related to this repository, you can join us on [Discord server](TODO).
 
 *Note: This project is maintained by unit members and is not officially endorsed by Bohemia Interactive or Lucasfilm Ltd.*
 
