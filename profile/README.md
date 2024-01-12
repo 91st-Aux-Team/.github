@@ -9,7 +9,7 @@ We encourage contributions from unit members to enhance and expand the auxiliary
 
 ## Contact
 
-For any questions, suggestions, or discussions related to this repository, you can join us on [Discord server]((https://discord.gg/zqn5aq9)).
+For any questions, suggestions, or discussions related to this repository, you can join us on [Discord server](https://discord.gg/zqn5aq9).
 
 *Note: This project is maintained by unit members and is not officially endorsed by Bohemia Interactive or Lucasfilm Ltd.*
 
