@@ -1,4 +1,4 @@
-# 91st MRC Auxiliary GitHub Repository
+# 91st MRC Auxiliary Repo
 ![ArmA_3_Screenshot_2024](https://github.com/91st-Aux-Team/.github/assets/54691085/6fa196b9-1cc4-4e84-abaa-5da8f1990809)
 
 Welcome to the 91st MRC Auxiliary GitHub repository! This repository serves as a centralized hub for auxiliary tools, resources, and information to support the operations and activities of the 91st MRC.
@@ -14,4 +14,4 @@ For any questions, suggestions, or discussions related to this repository, you c
 *Note: This project is maintained by unit members and is not officially endorsed by Bohemia Interactive or Lucasfilm Ltd.*
 
 ---
-*Last updated: August 8th, 2023*
+*Last updated: January 12th, 2024*
